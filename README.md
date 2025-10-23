@@ -1,7 +1,4 @@
-# CSCI203 - Algorithms and Data Structures - Assignment 1
-
-## Assignment Details
-- **Course**: CSCI203 Algorithms and Data Structures  
+# Algorithms and Data Structures 
 
 ## Contents
 ### Part A: Theory Questions (70 marks)
@@ -28,4 +25,4 @@ Run the Python file to test the recursive string-to-integer conversion.
 - Master Theorem
 
 ## Author
-Toh Qi Hao - CSCI203 Assignment 1
+Toh Qi Hao
